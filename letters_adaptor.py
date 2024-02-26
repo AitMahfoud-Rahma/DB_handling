@@ -6,7 +6,7 @@ import sys
 
 required_packages = ['pandas']
 
-# check packages installation
+# Check packages installation
 for package in required_packages:
     try:
         __import__(package)
