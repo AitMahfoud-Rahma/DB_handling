@@ -9,4 +9,5 @@ This Python script has been designed to process an Excel file containing data fr
 ## Running the script
 
 The script can be run using the command line. Be sure to specify the path to the Excel data file as an argument. Here's an example:
-```python3 letters_adaptor.py /Users/aitmahfoud/Downloads/FICHE_DE_RENSEIGNEMENTS-4.xlsx```
+
+`python3 letters_adaptor.py /Users/aitmahfoud/Downloads/FICHE_DE_RENSEIGNEMENTS-4.xlsx`
