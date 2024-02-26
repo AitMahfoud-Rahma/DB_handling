@@ -11,7 +11,7 @@
 Once you've installed Python, make sure you install the specific versions of the packages, using the `requirements.txt` file. Run the following command in your terminal or command prompt:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ## Running the script
 
