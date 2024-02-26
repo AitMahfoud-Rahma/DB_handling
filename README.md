@@ -6,6 +6,13 @@
 
 - Python 3.12.1 : Make sure you have Python installed on your machine. You can download it from [the official Python website](https://www.python.org/).
 
+## Installing dependencies
+
+Once you've installed Python, make sure you install the specific versions of the packages, using the `requirements.txt` file. Run the following command in your terminal or command prompt:
+
+``bash
+pip install -r requirements.txt
+
 ## Running the script
 
 The script can be run using the command line. Be sure to specify the path to the Excel data file as an argument. Here's an example:
