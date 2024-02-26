@@ -17,4 +17,4 @@ python3 letters_adaptor.py /Users/aitmahfoud/Downloads/FICHE_DE_RENSEIGNEMENTS-4
 The resulting file will be saved with a name similar to the input file, but with the suffix "_output.xlsx" added. For example, if the input file is "jotform.xlsx", the output file will be "jotform_output.xlsx".
 
 ### NB
-This code has been developed and tested with **Python 3.12.1**. If you encounter any problems or have any questions, please do not hesitate to contact me at `rahmaaitmahfoud@gmail.com`.
+This code has been developed and tested with **Python 3.12.1**. If you have any problems or have any questions, please do not hesitate to contact me at `rahmaaitmahfoud@gmail.com`.
