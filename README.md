@@ -1,6 +1,6 @@
 # DB_handling
 
-This Python script has been designed to process an Excel file containing data from an online form. It creates a new Excel file with selected columns, adapted as needed. This file will be used to automate the sending of letters to dog owners and/or veterinarians.
+[This Python script](letters_adaptor.py) has been designed to process an Excel file containing data from an online form. It creates a new Excel file with selected columns, adapted as needed. This file will be used to automate the sending of letters to dog owners and/or veterinarians.
 
 ## Prerequisites
 
