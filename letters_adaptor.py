@@ -35,6 +35,8 @@ file_type['Adresse 2'] = jotform['Complément d\'adresse']
 file_type['CP'] = jotform['Code Postal']
 file_type['Ville'] = jotform['Ville']
 file_type['Pays'] = jotform['Pays']
+file_type['Etablissement'] = jotform['Etablissement']
+
 # We can add gender but not necessary for the moment
 # Save the new file
 file_type_file = jotform_file.replace(".xlsx", "_output.xlsx")
