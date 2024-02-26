@@ -35,7 +35,7 @@ file_type['Adresse 2'] = jotform['Complément d\'adresse']
 file_type['CP'] = jotform['Code Postal']
 file_type['Ville'] = jotform['Ville']
 file_type['Pays'] = jotform['Pays']
-file_type['Etablissement'] = jotform['Etablissement']
+file_type['Etablissement'] = jotform['Etablissement (propriétaire)']
 
 # We can add gender but not necessary for the moment
 # Save the new file
