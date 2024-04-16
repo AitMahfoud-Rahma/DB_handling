@@ -1,4 +1,7 @@
 # DB_handling
+![Capture d’écran 2024-04-16 à 15 54 15](https://github.com/AitMahfoud-Rahma/DB_handling/assets/155021211/c9d0cf1c-d2d9-4303-ac41-55b494cac44d)
+
+
 
 [This Python script](letters_adaptor.py) has been designed to process an Excel file containing data from an online form. It creates a new Excel file with selected columns, adapted as needed. This file will be used to automate the sending of letters to dog owners and/or veterinarians.
 
